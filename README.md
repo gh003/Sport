@@ -1,9 +1,9 @@
-DokottaSport ,
+GondoSport ,
 
-🔭 This is a dokottahealth Sport page.
+🔭 This is a Gondohealth Sport page.
 
-🌱 We do sport for good causes.
+🌱 We do sport for good causes in Zambezi.
 
-📫 DokottaSport can be contacted on sport at dokottahealth.com.
+📫 GondoSport can be contacted on sport at healthhealth.com.
 
-🌱 Dokottahealth specialises in sport and good health.
+🌱 Gondohealth specialises in sport and good health.
