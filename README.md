@@ -6,4 +6,4 @@ GondoSport,
 
 📫 Gondohealth can be contacted on sport at gondohealth.org
 
-🌱 Gondohealth specialises in sport and good health.
+🌱 Gondohealth specialise in sport and good health.
