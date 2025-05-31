@@ -6,4 +6,4 @@ GondoSport
 
      📫 Gondosport inobatika pa imeyiri inoti sport at gondohealth.org.
 
-    🌱 Gondohealth i non profit ye hutano hwemhuka dzesango , yatinoti conservation.
+     🌱 Gondohealth i non profit ye hutano hwemhuka dzesango , yatinoti conservation.
