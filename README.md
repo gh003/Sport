@@ -1,9 +1,9 @@
-GondoSport,
+GondoSport
 
-    🔭 This is a Gondohealth Sport page.
+    🔭 Iyi i peji ye GondoSport.
 
-    🌱 We do sport for good causes.
+   🌱 Aya ma -Sport for Causes - mu Zambezi e Gondohealth.
 
-    📫 Gondohealth can be contacted on sport at gondohealth.org
+   📫 Gondosport inobatika pa imeyiri inoti sport at gondohealth.org.
 
-    🌱 Gondohealth specialise in sport and good health.
+   🌱 Gondohealth i non profit ye hutano hwemhuka dzesango , yatinoti conservation.
